@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="dark"><title>项目 Universe · 公司与投资管理</title><style>/*__STYLE__*/</style></head>
+<body>
+<header class="topbar"><a class="brand" href="#"><span class="brand-icon">✳</span><span>PROJECT<span class="brand-sub">UNIVERSE</span></span></a><nav aria-label="页面"><button data-view="universe" class="active">项目宇宙</button><button data-view="list">项目总览</button><button data-view="weekly">本周更新</button><button data-view="quality">资料核验</button></nav><div class="top-actions"><span id="saveStatus" class="save-status"></span><button id="dataMenuButton" class="outline">数据与导出 ↗</button></div></header>
+<main><section class="heading"><div><p class="eyebrow">YOUR COMPANIES. ONE CONNECTED VIEW.</p><h1 id="pageTitle">把每个项目，放回全景。</h1><p id="pageDescription">看清领域与来源，串起人物和学校，记住每一次进展。</p></div><div class="version"><span class="live-dot"></span> 本地研究版 <span id="version"></span><small id="dataNote">内部记录的原始更新日期待核实</small></div></section>
+<section id="stats" class="stats"></section>
+<section class="filters"><label class="search"><span>⌕</span><input id="search" type="search" placeholder="搜索公司、产品、教授、学校…" aria-label="搜索项目"><kbd>/</kbd></label><select id="investFilter" aria-label="投资标签"><option value="">全部投资标签</option><option value="invested">已投</option><option value="uninvested">未投</option><option value="exited">历史已投／已退出</option></select><select id="manageFilter" aria-label="管理分组"><option value="">全部管理分组</option><option value="pipeline">在手推进</option><option value="portfolio">投后跟踪</option></select><select id="sectorFilter" aria-label="领域"><option value="">全部领域</option></select><select id="schoolFilter" aria-label="学校与机构"><option value="">全部学校／机构</option></select><button id="resetFilters" title="清除筛选">重置</button></section>
+<div class="workspace"><section id="content" class="content"></section><aside id="rightRail" class="right-rail"></aside></div>
+<footer><span>以公司为中心 · 保留每一轮投资与每一次变化</span><span>内部资料与公开研究分别标示 · 空白不等于零</span></footer></main>
+<div id="drawerBackdrop" class="backdrop" hidden></div><aside id="drawer" class="drawer" aria-label="公司档案" hidden></aside>
+<dialog id="modal"><div id="modalContent"></div></dialog><div id="toast" class="toast" role="status" hidden></div>
+<input id="importFile" type="file" accept="application/json,.json" hidden>
+<script id="app-data" type="application/json">__DATA__</script><script>/*__APP__*/</script></body></html>

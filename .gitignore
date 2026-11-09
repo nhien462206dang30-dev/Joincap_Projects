@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+test-artifacts/
+
+# Local recovery snapshots are not website content
+snapshots/
+*.before-meeting.json

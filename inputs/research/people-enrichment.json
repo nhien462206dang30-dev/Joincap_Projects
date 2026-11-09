@@ -1,0 +1,186 @@
+[
+  {
+    "projectName": "脉源创科",
+    "people": [
+      {
+        "name": "黄永德（Jack Wing Tak Wong）",
+        "role": "教授",
+        "school": "香港中文大学",
+        "department": "生命科学学院",
+        "sourceUrl": "https://skla.cuhk.edu.hk/tc/news/prof-jack-wing-tak-wong-honored-with-hong-kong-innopreneur-award/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "高校官方资料",
+        "url": "https://skla.cuhk.edu.hk/tc/news/prof-jack-wing-tak-wong-honored-with-hong-kong-innopreneur-award/"
+      }
+    ],
+    "notes": [
+      "中大证实其创立NutrigeneAI并研发iPSC衍生内皮细胞；与中文项目名称的法人对应仍需核对。"
+    ]
+  },
+  {
+    "projectName": "城大-李文荣教授项目",
+    "people": [
+      {
+        "name": "李文荣（Wen Jung Li）",
+        "role": "讲座教授",
+        "school": "香港城市大学",
+        "department": "机械工程学系",
+        "sourceUrl": "https://scholars.cityu.edu.hk/en/persons/wenjli/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "高校官方资料",
+        "url": "https://scholars.cityu.edu.hk/en/persons/wenjli/"
+      }
+    ],
+    "notes": [
+      "校方证实任职与传感研究方向；具体项目关系来自原始记录，未证明创始人身份。"
+    ]
+  },
+  {
+    "projectName": "安理芯联",
+    "people": [
+      {
+        "name": "余长源（Changyuan Yu）",
+        "role": "教授",
+        "school": "香港理工大学",
+        "department": "电机及电子工程学系",
+        "sourceUrl": "https://www.polyu.edu.hk/rio/-/media/department/rio/media-release/2025/20250110---polyu-research-projects-awarded-rgc-collaborative-research-fund-and-research-impact-fund/collaborative-research-fund-funding-lists-table-tc.pdf?hash=C7F00F13605A055934EE627F7D972043&rev=6bbfa523d2004d8a9e5a9e30e2bdcb98"
+      }
+    ],
+    "sources": [
+      {
+        "title": "高校官方资料",
+        "url": "https://www.polyu.edu.hk/rio/-/media/department/rio/media-release/2025/20250110---polyu-research-projects-awarded-rgc-collaborative-research-fund-and-research-impact-fund/collaborative-research-fund-funding-lists-table-tc.pdf?hash=C7F00F13605A055934EE627F7D972043&rev=6bbfa523d2004d8a9e5a9e30e2bdcb98"
+      }
+    ],
+    "notes": [
+      "原始记录称其课题组；学校任职得到确认，未找到具体公司关系证据。"
+    ]
+  },
+  {
+    "projectName": "Asimov",
+    "people": [
+      {
+        "name": "肖斌（Bin Xiao）",
+        "role": "教授",
+        "school": "香港理工大学",
+        "department": "电子计算学系",
+        "sourceUrl": "https://www.polyu.edu.hk/comp/people/academic-staff/prof-xiao-bin/?sc_lang=en"
+      }
+    ],
+    "sources": [
+      {
+        "title": "高校官方资料",
+        "url": "https://www.polyu.edu.hk/comp/people/academic-staff/prof-xiao-bin/?sc_lang=en"
+      }
+    ],
+    "notes": [
+      "校方证实任职和AI安全研究；与项目的关系仅见原始记录。"
+    ]
+  },
+  {
+    "projectName": "Cloud BCI（闭环神经调控脑机接口）",
+    "people": [
+      {
+        "name": "石鹏（Peng Shi）",
+        "role": "教授",
+        "school": "香港城市大学",
+        "department": "生物医学工程学系",
+        "sourceUrl": "https://www.cityu.edu.hk/cbm/ar-sFlex_on_cortex.htm"
+      }
+    ],
+    "sources": [
+      {
+        "title": "高校官方资料",
+        "url": "https://www.cityu.edu.hk/cbm/ar-sFlex_on_cortex.htm"
+      }
+    ],
+    "notes": [
+      "校方证实其任职及神经接口研究；未找到该项目名称的直接关联。"
+    ]
+  },
+  {
+    "projectName": "From Cold to Hot（癌症免疫疗法）",
+    "people": [
+      {
+        "name": "赵燕湘（Yanxiang Zhao）",
+        "role": "讲座教授",
+        "school": "香港理工大学",
+        "department": "生命科学系",
+        "sourceUrl": "https://www.polyu.edu.hk/academicians/our-distinguished-scholars/zhao-yanxiang/?sc_lang=sc"
+      }
+    ],
+    "sources": [
+      {
+        "title": "高校官方资料",
+        "url": "https://www.polyu.edu.hk/academicians/our-distinguished-scholars/zhao-yanxiang/?sc_lang=sc"
+      }
+    ],
+    "notes": [
+      "校方确认其领导癌症免疫治疗研究；具体项目名称与原始记录的对应待核实。"
+    ]
+  },
+  {
+    "projectName": "Materials Intelligence（材料智能）",
+    "people": [
+      {
+        "name": "赵海涛（Haitao Zhao）",
+        "role": "教授",
+        "school": "香港理工大学",
+        "department": "电机及电子工程学系",
+        "sourceUrl": "https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-zhao-haitao/?sc_lang=en"
+      }
+    ],
+    "sources": [
+      {
+        "title": "高校官方资料",
+        "url": "https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-zhao-haitao/?sc_lang=en"
+      }
+    ],
+    "notes": [
+      "校方证实其材料智能制造研究；与所列项目的具体关系待核实。"
+    ]
+  },
+  {
+    "projectName": "EcoGuardOS（智能建筑虚拟电厂）",
+    "people": [
+      {
+        "name": "梅国威",
+        "role": "教授",
+        "school": "香港理工大学",
+        "department": "建筑环境及能源工程学系",
+        "sourceUrl": "https://www.polyu.edu.hk/sc/media/media-releases/2024/0916_polyu-launches-district-care-teams-training-programme/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "高校官方资料",
+        "url": "https://www.polyu.edu.hk/sc/media/media-releases/2024/0916_polyu-launches-district-care-teams-training-programme/"
+      }
+    ],
+    "notes": [
+      "校方2024资料确认院系任职；与EcoGuardOS项目关系仅见原始记录。"
+    ]
+  },
+  {
+    "projectName": "Action Brain（具身智能动作大脑）",
+    "people": [
+      {
+        "name": "许丽塔",
+        "role": "教授（原始记录）",
+        "school": "香港理工大学（原始记录）",
+        "department": "待核实",
+        "sourceUrl": ""
+      }
+    ],
+    "sources": [],
+    "notes": [
+      "原始姓名为许丽塔。理大确有许立达（Li-Ta Hsu），但目前没有证据证明其即此人或关联Action Brain，不自行合并。候选参考：https://www.polyu.edu.hk/aae/ipn-lab/us/zh-cn/people/li-ta-hsu/"
+    ]
+  }
+]
